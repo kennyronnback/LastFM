@@ -1,0 +1,15 @@
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.dll
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.pdb
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.dll.mdb
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.TestAndroidApp.apk
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.TestAndroidApp-Signed.apk
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\TestAndroidApp.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\TestAndroidApp.dll
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\TestAndroidApp.pdb
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\android\bin\TestAndroidApp.TestAndroidApp.apk
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\res\layout\main.xml
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\res\values\strings.xml
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\res\drawable\icon.png
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\R.cs.flag
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\obj\Debug\uploadflags.txt
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\RestSharp.MonoDroid.dll

@@ -1,0 +1,2 @@
+C:\Users\Kenny\Desktop\TestAndroidApp\TestAndroidApp\bin\Debug\TestAndroidApp.dll
+C:\Users\Kenny\Desktop\TestAndroidApp\Components\restsharp-104.4.0.1\lib\android\RestSharp.MonoDroid.dll
