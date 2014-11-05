@@ -1,0 +1,2 @@
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\LastFM.dll
+C:\Users\Kenny\Desktop\LastFM\Components\restsharp-104.4.0.1\lib\android\RestSharp.MonoDroid.dll

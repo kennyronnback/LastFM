@@ -1,0 +1,15 @@
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\LastFM.csprojResolveAssemblyReference.cache
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\LastFM.dll
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\LastFM.pdb
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\LastFM.dll.mdb
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\LastFM.LastFM.apk
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\LastFM.LastFM-Signed.apk
+C:\Users\Kenny\Desktop\LastFM\LastFM\bin\Debug\RestSharp.MonoDroid.dll
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\LastFM.dll
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\LastFM.pdb
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\android\bin\LastFM.LastFM.apk
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\res\layout\main.xml
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\res\values\strings.xml
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\res\drawable\icon.png
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\R.cs.flag
+C:\Users\Kenny\Desktop\LastFM\LastFM\obj\Debug\uploadflags.txt
